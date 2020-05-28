@@ -1,4 +1,4 @@
-# Este es un comando para eliminar todo lo que se ha realizado
+# Este es un comando para eliminar todo lo que se ha realizado---
 remove(list = ls())
 
 # Paqueterias que necesitamos 

@@ -6,6 +6,7 @@ library(ggplot2) #funciones para graficas
 library(dplyr) #transformaciones a la base de datos
 library(ggthemes) #diseno de grafica
 
+
 # Definimos el area de trabajo mediante una ruta con la direccion de donde esta guardada la base de datos
 path <- paste("G:/Calderon's work/Interest rate/", sep = "") # Aqui solo se cambia la dirección que esta entre comillas " 
 
